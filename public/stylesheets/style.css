@@ -21,7 +21,10 @@ a {
 a:hover {
   color: #3486eb;
 }
-
+.posts {
+  border: 1px solid black;
+  
+}
 button {
   background-color: orchid;
   border: 0;
