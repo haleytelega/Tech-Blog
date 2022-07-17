@@ -19,7 +19,7 @@
   What are the steps required to install your project? go to: https://haleys-tech-blog.herokuapp.com/
 
   ## Usage
-  Provide instructions and examples for use: n/a
+  Provide instructions and examples for use: Tech blog for users to post about tech articles and comment on them.
 
   ## Contributing
   List your collaborators: n/a
